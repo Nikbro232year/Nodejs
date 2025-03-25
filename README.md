@@ -1,5 +1,8 @@
 # Nodejs
-Basics codes and notes nodejs
+Basics codes and notes
+
+
+nodejs
 Node js -------->
 packege.json take information about the project related
 It contains metadata about the project and manages the dependencies and scripts needed to run the application.
